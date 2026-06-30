@@ -1,9 +1,11 @@
 # Inspeye 灵感桌宠
 A tool helpful for artists and designers to gain inspiration, in a desktop pet form that stays on your screen.<br>
 Simply hover your mouse over the desktop pet to bring up a sleek panel for browsing the latest cases.<br>
+Auto-downloads selected inspirations; works with Figma and Photoshop to quickly build mood and material boards.<br>
 >  
 一款专为艺术设计工作者获取灵感的支持工具，以桌宠形态常驻桌面。<br>
-只需将鼠标移至桌宠上方，即可弹出精美面板浏览最新设计案例。
+只需将鼠标移至桌宠上方，即可弹出精美面板浏览最新设计案例。<br>
+自动下载中意灵感，可以配合Figma、PS等快速形成素材板、情绪版。
 # WIP 仍在开发中
 This project is still being actively tested and optimized to improve the user experience.<br>
 >  
