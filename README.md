@@ -12,7 +12,7 @@ This project is still being actively tested and optimized to improve the user ex
 - Vanilla JavaScript: Pure rendering logic without any framework dependencies (no Vue/React)<br>  
 - CSS3: Glassmorphism UI, animations, responsive layout, and CSS variable theme system<br>
 <br>
-- Electron：跨平台桌面应用框架，提供多窗口 / 系统托盘 / IPC 通信<br>
-- Node.js：文件系统操作 / HTTPS 请求 / 加密哈希 / 路径处理<br>
-- 原生 JavaScript：渲染进程逻辑，无框架依赖（无 Vue/React）<br>
-- CSS3：Glass Morphism / 动画 / 响应式布局 / CSS 变量主题系统
+- Electron: 跨平台桌面应用框架，提供多窗口 / 系统托盘 / IPC 通信<br>
+- Node.js: 文件系统操作 / HTTPS 请求 / 加密哈希 / 路径处理<br>
+- 原生 JavaScript: 渲染进程逻辑，无框架依赖（无 Vue/React）<br>
+- CSS3: Glass Morphism / 动画 / 响应式布局 / CSS 变量主题系统
