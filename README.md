@@ -28,3 +28,19 @@ This project is still being actively tested and optimized to improve the user ex
 - 复用 Electron 的 session.defaultSession.fetch()，走 Chromium 网络栈，自动支持系统代理
 - UI渲染原生 DOM 操作，不依赖 Vue/React/jQuery
 - 7 天本地 JSON 缓存，自动清理过期条目
+# Functions 功能
+- Open inspiration images in their original source websites
+- Automatically download saved inspirations to a local folder; clearing favorites will not delete local files
+- Customizable local download directory
+- Custom RSS feed sources
+- Option to enable/disable image downloads per category
+- Configurable push intervals and scheduled notifications
+- Multiple color themes available for switching
+>  
+- 点击灵感图片前往其原网站
+- 收藏灵感时自动下载图片至本地文件夹，清空收藏夹不会删除本地文件
+- 可指定下载图片的本地文件夹路径
+- 可自定义RSS内容源
+- 可根据不同分类的需要，选择是否下载图片
+- 可自定义推送间隔、定时推送
+- 多种颜色皮肤可供切换
